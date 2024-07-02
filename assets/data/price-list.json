@@ -1,0 +1,44 @@
+{
+    "services": [
+        {
+            "duration": "HOUR",
+            "incall": "N/A",
+            "outcall": "£150"
+        },
+        {
+            "duration": "2 HOURS",
+            "incall": "N/A",
+            "outcall": "£300"
+        },
+        {
+            "duration": "ADDITIONAL HOURS",
+            "incall": "N/A",
+            "outcall": "£150"
+        },
+        {
+            "duration": "DINNER DATE",
+            "incall": "N/A",
+            "outcall": "CHECK RECEPTION"
+        },
+        {
+            "duration": "5 HOURS",
+            "incall": "N/A",
+            "outcall": "£750"
+        },
+        {
+            "duration": "10 HOURS",
+            "incall": "N/A",
+            "outcall": "£1500"
+        },
+        {
+            "duration": "COUPLES HOUR",
+            "incall": "£230",
+            "outcall": "£230"
+        },
+        {
+            "duration": "COUPLE ADDITIONAL HOURS",
+            "incall": "£N/A",
+            "outcall": "£230"
+        }
+    ]
+}
